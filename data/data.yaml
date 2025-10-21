@@ -1,0 +1,8 @@
+train: E:/yolov11/TRAIN/1280/train/images  # train images (relative to 'path') 128 images
+val: E:/yolov11/TRAIN/1280/val/images  # val images (relative to 'path') 128 images
+test: E:/yolov11/TRAIN/test/images
+
+nc: 1
+
+# Classes
+names: ['defect']
